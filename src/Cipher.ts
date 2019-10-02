@@ -1,5 +1,6 @@
 import crypto from 'crypto';
 
+console.log('\u231b');
 const iv = Buffer.alloc(16, 0);
 
 const key = crypto.scryptSync('password', 'salt', 24);

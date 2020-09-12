@@ -27,7 +27,7 @@
     "typescript": "^3.6.3"
   },
   "dependencies": {
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "rxjs": "6.5.3"
   }
 }
